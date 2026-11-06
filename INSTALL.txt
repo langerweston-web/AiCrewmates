@@ -1,0 +1,8 @@
+AiCrewmates v0.1.0 (pre-release)
+
+1. Install BepInEx 6 IL2CPP (win-x64) into your Steam Among Us folder and launch the game once.
+2. Put Reactor 2.5.x (for Among Us 17.4 / GameLibs 2026.9.29) into BepInEx/plugins/.
+3. Put AiCrewmates.dll into BepInEx/plugins/.
+4. Host a freeplay or private lobby. Use /addbot or F6 to add bots. Do not use public matchmaking.
+
+In-game play was not tested in the build environment. Smoke-test in freeplay first.
