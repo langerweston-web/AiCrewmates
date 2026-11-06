@@ -10,3 +10,6 @@ obj/
 .DS_Store
 packages/
 *.nupkg
+AiCrewmates-v0.1.0.zip
+AiCrewmates/bin/
+AiCrewmates/obj/

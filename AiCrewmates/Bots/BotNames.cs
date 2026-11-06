@@ -3,12 +3,12 @@ namespace AiCrewmates.Bots;
 public static class BotNames
 {
     private static readonly string[] Pool =
-    [
+    {
         "Ada", "Byte", "Circuit", "Delta", "Echo", "Flux", "Gizmo", "Helix",
         "Ion", "Jolt", "Kernel", "Logic", "Mod", "Nova", "Otto", "Pulse",
         "Quark", "Relay", "Spark", "Torque", "Unit", "Vox", "Watt", "Xeno",
         "Yotta", "Zed", "Pixel", "Nexus", "Rook", "Sable",
-    ];
+    };
 
     private static readonly System.Random Rng = new();
 
